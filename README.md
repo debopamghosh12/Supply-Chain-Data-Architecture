@@ -59,8 +59,4 @@ The frontend Power BI dashboard serves as an interactive control panel for the u
 
 ---
 
-**Next Steps for GitHub Upload:**
 
-1. Save this text as `README.md`.
-2. Ensure you have exported the PDF preview as discussed earlier and name it `Dashboard_Preview.pdf` (or update the filename in the README to match what you saved it as).
-3. Push the `.pbix`, `.pdf`, and `.md` files to your new repository.
