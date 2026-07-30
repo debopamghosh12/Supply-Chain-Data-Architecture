@@ -1,4 +1,4 @@
-Here is a highly technical, production-ready `README.md` draft tailored for a data engineering and analytics portfolio. You can copy this directly into Obsidian to review and compile before pushing it to your GitHub repository.
+
 
 ---
 
